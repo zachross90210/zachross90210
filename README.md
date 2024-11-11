@@ -1,3 +1,1 @@
-# zachross90210
-
-Full-stack developer | Python | nodejs
+Full-Stack Software Engineer | Backend Developer | Python, JavaScript, TypeScript | Node.js & React | API Development | AWS & Cloud Solutions | Scalable Systems | Database Design (SQL, NoSQL) | Problem Solver & Innovator
