@@ -21,5 +21,16 @@ Full-Stack Software Engineer | Backend Developer | Python, JavaScript, TypeScrip
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![SSH](https://img.shields.io/badge/-SSH-000?&logo=ssh)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Celery](https://img.shields.io/badge/-Celery-000?&logo=Celery)
+
+### Databases and Cloud Hosting
+
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
