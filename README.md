@@ -41,7 +41,5 @@ Full-Stack Software Engineer | Backend Developer | Python, JavaScript, TypeScrip
 [![Twitter Follow](https://img.shields.io/badge/connect-%40zachross90210-1DA1F2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rosz/?original_referer=https%3A%2F%2Fgithub.com%2Fzachross90210)
 
 
-![zachross90210's Stats](https://github-readme-stats.vercel.app/api?username=zachross90210&theme=calm&show_icons=true&hide_border=true&count_private=true&hide_title=true)
-![zachross90210's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachross90210&theme=calm&show_icons=true&hide_border=true&layout=compact)
-![zachross90210's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachross90210&theme=calm&hide_border=true)
-
+<!-- commits / PR statistic -->
+<a href="https://www.linkedin.com/in/rosz/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zachross90210&theme=calm&show_icons=true&hide_border=true&count_private=true&hide_title=true" /><img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=zachross90210&theme=calm&hide_border=true" /></a><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachross90210&theme=calm&show_icons=true&hide_border=true&layout=compact" /></a>
