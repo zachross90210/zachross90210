@@ -42,5 +42,6 @@ Full-Stack Software Engineer | Backend Developer | Python, JavaScript, TypeScrip
 
 
 ![zachross90210's Stats](https://github-readme-stats.vercel.app/api?username=zachross90210&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-![zachross90210's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachross90210&theme=slateorange&hide_border=true)
 ![zachross90210's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachross90210&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+![zachross90210's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachross90210&theme=slateorange&hide_border=true)
+
