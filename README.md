@@ -41,6 +41,6 @@ Full-Stack Software Engineer | Backend Developer | Python, JavaScript, TypeScrip
 [![Twitter Follow](https://img.shields.io/badge/connect-%40zachross90210-1DA1F2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rosz/?original_referer=https%3A%2F%2Fgithub.com%2Fzachross90210)
 
 
-<!-- commits / PR statistic -->
-<a href="https://www.linkedin.com/in/rosz/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zachross90210&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=0,2B1B17,452C27,5A3A33,6D4B3B,854E34&theme=dark" /><!-- PR language statistic --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachross90210&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
+![zachross90210's Stats](https://github-readme-stats.vercel.app/api?username=zachross90210&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+![zachross90210's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachross90210&theme=slateorange&hide_border=true)
+![zachross90210's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachross90210&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
