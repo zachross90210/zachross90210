@@ -42,4 +42,4 @@ Full-Stack Software Engineer | Backend Developer | Python, JavaScript, TypeScrip
 
 
 <!-- commits / PR statistic -->
-<a href="https://www.linkedin.com/in/rosz/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zachross90210&theme=calm&show_icons=true&hide_border=true&count_private=true&hide_title=true" /><img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=zachross90210&theme=calm&hide_border=true" /></a><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachross90210&theme=calm&show_icons=true&hide_border=true&layout=compact" /></a>
+<a href="https://www.linkedin.com/in/rosz/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zachross90210&theme=slateorange&show_icons=true&hide_border=true&count_private=true&hide_title=true" /><img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=zachross90210&theme=Slateorange&hide_border=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachross90210&theme=slateorange&show_icons=true&hide_border=true&layout=compact" /></a>
