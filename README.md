@@ -1,4 +1,4 @@
-Full-Stack Software Engineer | Backend Developer | Python, JavaScript, TypeScript | Node.js & React | API Development | AWS & Cloud Solutions | Scalable Systems | Database Design (SQL, NoSQL) | Problem Solver & Innovator
+Software developer | Python, JavaScript Node.js & React | Providing API development and AI integration services. | Develop React based applications | Lead development process
 
 ### Languages
 
