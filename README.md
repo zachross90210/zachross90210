@@ -1,5 +1,5 @@
-⭐ 15 years of experience  
-⭐ Developed more than 100 projects, including one with a turnover into a famous marketplace
+- ⭐ 15 years of experience  
+- ⭐ Developed more than 100 projects, including one with a turnover into a famous marketplace
 
 I have spent most of my life in IT. I'm self-motivated and can solve complex tasks in a short time. I can provide you with a full set of services to help you realize your business idea, starting from business analysis through design and implementation phases to stabilization, deployment, and maintenance of the end product.
 
@@ -9,7 +9,6 @@ In the past two years, my main roles were architecture planning, choosing the ri
 
 I like Agile and use it every day—iterations, scrum daily meetings, retrospectives.
 
----
 
 ### My experience and skill set include:
 
