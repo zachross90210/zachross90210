@@ -1,39 +1,51 @@
-Software developer | Python, JavaScript Node.js & React | Providing API development and AI integration services. | Develop React based applications | Lead development process
+⭐ 15 years of experience
+⭐ Developed more than 100 projects, one with a turnover into a famous marketplace
 
-### Languages
+I spent most of the life in IT. I'm self motivated, can solve complex tasks in a short time. I can provide you with a full set of services to help you realize your business idea, starting from business analysis through design and implementation phases to stabilization, deployment, and maintenance of the end product.
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Go](https://img.shields.io/badge/-GoLang-000?&logo=Go&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+I'm Fast-learner and can easily adjust to new programming languages and adapt to new environments. I have a passion for clean and neat web interfaces that produce seamless user experience.
+
+In the past two years my main roles were architecture planning, choosing the right technology stack using the client's requirements, development and team management.
+
+I like Agile and use it every day - iterations, scrum daily meetings, retrospectives.
+
+My experience and skill set coverage are like the following:
+
+Frontend
+
+✔️ Angular / Vue / React / Svelte / NextJS
+✔️ Redux
+✔️ TypeScript
+✔️ Twitter Bootstrap / Material Design / TailwindCSS
+✔️ HTML5 / CSS3
+
+Backend
+
+✔️ NodeJS / PHP / Python
+✔️ Express / NextJS 
+✔️ PostgreSQL / MySQL / Redis / MongoDB / SQLite / Firebase / RDS
+✔️ RESTful API / GraphQL
+✔️ Database architecture
+✔️ Performance and Security
+
+VCS
+
+✔️ GIT / GitHub / GitLab / Bitbucket
+
+Testing
+
+✔️ PhantomJS / CasperJS / SlimerJS / Storybook / Puppeteer / CodeceptJS
+✔️ Mocha / Protractor / Karma / Jasmine / Jest / Cypress / Enzyme
+✔️ Continuous Integration: Travis, CircleCI, Github Actions
 
 
-### Technologies
+Other:
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![GCP](https://img.shields.io/badge/-GCP-000?&logo=google&logoColor=F90)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![SSH](https://img.shields.io/badge/-SSH-000?&logo=ssh)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Celery](https://img.shields.io/badge/-Celery-000?&logo=Celery)
+✔️ AWS / Azure / Heroku / DigitalOcean
+✔️ Bluehost / GoDaddy / Cloudflare
+✔️ Docker / Convox
+✔️ Github / Gitlab / Bitbucket
+✔️ Jira, Trello
+✔️ Page speed optimization
 
-### Databases and Cloud Hosting
-
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-
-<!-- commits / PR statistic -->
-<a href="https://www.linkedin.com/in/rosz/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zachross90210&theme=slateorange&show_icons=true&hide_border=true&count_private=true&hide_title=true" /><img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=zachross90210&theme=Slateorange&hide_border=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachross90210&theme=slateorange&show_icons=true&hide_border=true&layout=compact" /></a>
+If you have an idea, or a clear vision of your application functionality and need assistance to translate it into a real-life product - don’t hesitate to contact me.
