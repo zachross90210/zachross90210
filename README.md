@@ -1,48 +1,21 @@
-- ⭐ 15 years of experience  
-- ⭐ Developed more than 100 projects, including one with a turnover into a famous marketplace
+# Hey, I'm Rostyslav 👋
 
-I have spent most of my life in IT. I'm self-motivated and can solve complex tasks in a short time. I can provide you with a full set of services to help you realize your business idea, starting from business analysis through design and implementation phases to stabilization, deployment, and maintenance of the end product.
+Backend engineer with 10 years building production systems — APIs, microservices, data pipelines, and AI integrations.
 
-I'm a fast learner and can easily adjust to new programming languages and adapt to new environments. I have a passion for clean and neat web interfaces that produce seamless user experiences.
+## Stack
+**Backend:** Python · Node.js · TypeScript · FastAPI · Django · NestJS  
+**Databases:** PostgreSQL · MongoDB · Redis · Elasticsearch  
+**Cloud:** AWS (Lambda, S3, SQS, EC2)  
+**AI/ML:** LangChain · Pinecone · RAG pipelines · LLM integrations  
+**Tools:** Docker · RabbitMQ · Celery · Git  
 
-In the past two years, my main roles were architecture planning, choosing the right technology stack based on client requirements, development, and team management.
+## What I work on
+- Production backend services and REST APIs
+- Data processing pipelines and scraping systems
+- LLM integrations and RAG-based tools
+- Microservices on AWS
 
-I like Agile and use it every day—iterations, scrum daily meetings, retrospectives.
-
-
-### My experience and skill set include:
-
-#### **Frontend**
-- ✔️ Angular / Vue / React / Svelte / NextJS
-- ✔️ Redux
-- ✔️ TypeScript
-- ✔️ Twitter Bootstrap / Material Design / TailwindCSS
-- ✔️ HTML5 / CSS3
-
-#### **Backend**
-- ✔️ NodeJS / PHP / Python
-- ✔️ Express / NextJS 
-- ✔️ PostgreSQL / MySQL / Redis / MongoDB / SQLite / Firebase / RDS
-- ✔️ RESTful API / GraphQL
-- ✔️ Database architecture
-- ✔️ Performance and Security
-
-#### **Version Control**
-- ✔️ GIT / GitHub / GitLab / Bitbucket
-
-#### **Testing**
-- ✔️ PhantomJS / CasperJS / SlimerJS / Storybook / Puppeteer / CodeceptJS
-- ✔️ Mocha / Protractor / Karma / Jasmine / Jest / Cypress / Enzyme
-- ✔️ Continuous Integration: Travis, CircleCI, GitHub Actions
-
-#### **Other**
-- ✔️ AWS / Azure / Heroku / DigitalOcean
-- ✔️ Bluehost / GoDaddy / Cloudflare
-- ✔️ Docker / Convox
-- ✔️ GitHub / GitLab / Bitbucket
-- ✔️ Jira / Trello
-- ✔️ Page speed optimization
-
----
-
-If you have an idea or a clear vision of your application's functionality and need assistance to translate it into a real-life product, don’t hesitate to contact me.
+## Open source projects
+- [multi-monitor-window-swap](https://github.com/zachross90210/multi-monitor-window-swap)
+- [video-course-reader](https://github.com/zachross90210/video-course-reader)
+- [slopvideosorter](https://github.com/zachross90210/slopvideosorter)
