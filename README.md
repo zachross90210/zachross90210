@@ -22,9 +22,11 @@ Senior Full-Stack & Backend Engineer with 12+ years of experience. I specialize 
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" height="42px" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height="42px" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<br/>
+<br/>
 
 ### 📊 Github Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zachross90210)](https://github.com/stats-organization/github-stats-extended)
+![My GitHub stats](https://github-stats-extended.vercel.app/api?username=zachross90210&show=reviews,issues_authored,issues_commented) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zachross90210)](https://github.com/stats-organization/github-stats-extended)
 
 
 ## Open source projects
